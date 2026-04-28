@@ -20,7 +20,7 @@ Dorami AI is a real-time voice assistant built using Python that can understand 
 ## 📦 Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dorami-ai.git
+git clone https://github.com/drithirn/dorami-ai.git
 cd dorami-ai
 pip install -r requirements.txt
 python main.py
